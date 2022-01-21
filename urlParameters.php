@@ -6,14 +6,14 @@
     </head>
     <body>
 
-    <form action="urlParameters.php" method="get">
+    <form action="urlParameters.php" method="post">
         Password: <input type="password" name="password"><br>
         <input type="submit"><br>
     </form>
     <br><br>
 
     <?php
-        echo $_GET["password"]
+        echo $_POST["password"]
     ?>
 
     </body>
