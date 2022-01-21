@@ -32,6 +32,10 @@
     echo str_replace("Hi","Panda",$phrase);
     echo "<br>";
     echo $phrase;
+    echo "<br>";
+    echo substr($phrase, 3); #Prints Academy
+    echo "<br>";
+    echo substr($phrase, 3,3); #Prints Aca
 
     ?>
 
