@@ -7,13 +7,13 @@
     <body>
 
     <form action="urlParameters.php" method="get">
-        Name: <input type="text" name="name"><br>
+        Password: <input type="password" name="password"><br>
         <input type="submit"><br>
     </form>
     <br><br>
 
     <?php
-        echo $_GET["name"]
+        echo $_GET["password"]
     ?>
 
     </body>
