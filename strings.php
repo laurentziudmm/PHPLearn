@@ -10,8 +10,7 @@
     $phrase = " Academy Giraffe";
     echo "Fifth year Academy <br>";
     echo $phrase;
-    echo $phrase;
-    echo $phrase;
+
 
     ?>
 
