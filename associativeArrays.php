@@ -7,7 +7,10 @@
     <body>
 
     <?php
-        $grades = array();
+        $grades = array("Jimy"=>"A++",
+            "Pam" => "C-",
+            "Matei" => "B");
+        echo $grades["Jimy"]; #Prints A++
 
     ?>
 
