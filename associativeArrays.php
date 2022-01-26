@@ -6,11 +6,18 @@
     </head>
     <body>
 
+    <form action="associativeArrays.php" method="post">
+        <input type="text" name="student">
+        <input type="submit">
+    </form>
+
     <?php
-        $grades = array("Jimy"=>"A++",
-            "Pam" => "C-",
-            "Matei" => "B");
-        echo $grades["Jimy"]; #Prints A++
+                        #key    #value
+        $grades = array("Jimy"=>"A++", "Pam" => "C-", "Matei" => "B");
+        $grades["Jimy"] = "F";
+//        echo $grades["Jimy"]; #Prints A++
+
+        echo $grades[$_POST["student"]];#Prints what you type in the box and submit
 
     ?>
 
