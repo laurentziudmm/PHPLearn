@@ -6,9 +6,7 @@
     </head>
     <body>
 
-    <?php
-
-    ?>
+    <?php echo "PHP"?>
 
 
     </body>
