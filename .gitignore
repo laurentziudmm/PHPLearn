@@ -1,4 +1,4 @@
-.git_ignore
+.git
 # VSCode
 .vscode/*
 !.vscode/settings.json
