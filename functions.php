@@ -6,7 +6,7 @@
     </head>
     <body>
 
-    <?php echo "PHP"?>
+    <?php echo "Learn New"?>
 
 
     </body>
