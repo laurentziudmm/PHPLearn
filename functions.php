@@ -6,11 +6,11 @@
     </head>
     <body>
 
+    <?php echo "Functions"?>
     <?php echo "Learn New"?>
+    <?php echo "Functions"?>
     <?php echo "Learn New"?>
-    <?php echo "Learn New"?>
-    <?php echo "Learn New"?>
-    <?php echo "Learn New"?>
+    <?php echo "Functions"?>
     <?php echo "Learn New"?>
 
 
