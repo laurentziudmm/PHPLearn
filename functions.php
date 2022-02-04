@@ -7,6 +7,11 @@
     <body>
 
     <?php echo "Learn New"?>
+    <?php echo "Learn New"?>
+    <?php echo "Learn New"?>
+    <?php echo "Learn New"?>
+    <?php echo "Learn New"?>
+    <?php echo "Learn New"?>
 
 
     </body>
